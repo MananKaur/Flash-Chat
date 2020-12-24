@@ -44,10 +44,10 @@ The application is implemented using Flutter and Dart.
 - modal_progress_hud 0.1.3
 
 ## What the app looks like
-<img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup%20(1).png" width="100" height="140">
-<img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup%20(2).png" width="100" height="140">
-<img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup%20(3).png" width="100" height="140">
-<img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup.png" width="100" height="140">
+<img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup%20(1).png" width="400" height="560"> <img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup%20(2).png" width="400" height="560">
+
+<img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup%20(3).png" width="400" height="560"> <img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup.png" width="400" height="560">
+
 
 
 
