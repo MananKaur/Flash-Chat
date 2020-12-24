@@ -3,8 +3,6 @@
 A cross-platform multi-screen group chat application that uses FirebaseAuth for authentication and Firebase Cloud Firestore to store and sync data. 
 The application is implemented using Flutter and Dart. 
 
-<img src="https://raw.githubusercontent.com/MananKaur/Flash-Chat/master/images/threed_mockup%20(1).png" width="100" height="140">
-
 ## How to run the app 
 1. Clone the repository and open on Android Studio.
 2. Get the dependencies by clicking on the highlighted prompt on the Android Studio.
